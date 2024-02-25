@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore.Swagger" Version="6.0.2" />
+    <PackageReference Include="Swashbuckle.AspNetCore.SwaggerGen" Version="6.0.2" />
+    <PackageReference Include="Swashbuckle.AspNetCore.SwaggerUI" Version="6.5.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ProdInsumos.Application\ProdInsumos.Application.csproj" />
+    <ProjectReference Include="..\ProdInsumos.Domain\ProdInsumos.Domain.csproj" />
+    <ProjectReference Include="..\ProdInsumos.Infra.Data\ProdInsumos.Infra.Data.csproj" />
+  </ItemGroup>
+
+</Project>

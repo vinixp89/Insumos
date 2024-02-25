@@ -1,0 +1,12 @@
+C:\ProdInsumos\ProdInsumos.Application\bin\Debug\net6.0\ProdInsumos.Application.deps.json
+C:\ProdInsumos\ProdInsumos.Application\bin\Debug\net6.0\ProdInsumos.Application.dll
+C:\ProdInsumos\ProdInsumos.Application\bin\Debug\net6.0\ProdInsumos.Application.pdb
+C:\ProdInsumos\ProdInsumos.Application\obj\Debug\net6.0\ProdInsumos.Application.csproj.AssemblyReference.cache
+C:\ProdInsumos\ProdInsumos.Application\obj\Debug\net6.0\ProdInsumos.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProdInsumos\ProdInsumos.Application\obj\Debug\net6.0\ProdInsumos.Application.AssemblyInfoInputs.cache
+C:\ProdInsumos\ProdInsumos.Application\obj\Debug\net6.0\ProdInsumos.Application.AssemblyInfo.cs
+C:\ProdInsumos\ProdInsumos.Application\obj\Debug\net6.0\ProdInsumos.Application.csproj.CoreCompileInputs.cache
+C:\ProdInsumos\ProdInsumos.Application\obj\Debug\net6.0\ProdInsumos.Application.dll
+C:\ProdInsumos\ProdInsumos.Application\obj\Debug\net6.0\refint\ProdInsumos.Application.dll
+C:\ProdInsumos\ProdInsumos.Application\obj\Debug\net6.0\ProdInsumos.Application.pdb
+C:\ProdInsumos\ProdInsumos.Application\obj\Debug\net6.0\ref\ProdInsumos.Application.dll
