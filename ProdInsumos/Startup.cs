@@ -1,4 +1,6 @@
 ﻿using Microsoft.OpenApi.Models;
+using ProdInsumos.Domain.Interfaces;
+using ProdInsumos.Infra.Data.Repositories;
 using ProdInsumos.Infra.Ioc;
 
 namespace ProdInsumos
@@ -22,7 +24,7 @@ namespace ProdInsumos
             //    c.SwaggerDoc("v1", new OpenApiInfo { Title = "ProdInsumos.API", Version = "v1" });
             //});
 
-
+            services.AddScoped<IFuncionarioRepository, FuncionarioRepository>();
             services.AddInfrastructure(Configuration);
         }
 
